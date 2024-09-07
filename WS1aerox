@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="newp.css">
+    </head>
+    <body>
+        <br></br>
+        <div class="line"><h1><center>YAMAHA AEROX V1 FOR SALE</h1></center>
+            <h5><center>NEFTALI R. TINAMBING LFCAM042</center></h5></div>
+            <img src="C:\Users\ICCT GUEST\Downloads\NepWs1\pics\aerox.png" alt="motor" class="motor">
+
+            <div class="specs"><h2>SPECIFICATION:</h2>
+                <h3><br>Start Option: Electric</h3>
+                <h3><br>Front Brake: Dis</h3>
+                <h3><br>Transmission Type: CVT</h3>
+                <h3><br>Displacement: 155 cc</h3>
+                <h3><br>Maximum Power: 15.1 hp</h3>
+                <h3><br>Ground Clearance: 145 mm</h3>
+                <h3><br>Braking System Abs</h3>
+            </div>
+            <center><button class="button">BUY NOW!</button></center>
+
+    
+    
+
+
+    </body>
+</html>
